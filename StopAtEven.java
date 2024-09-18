@@ -17,6 +17,7 @@ public class StopAtEven
 			n = sc.nextInt();
 			count++;
 		}
+
 		//int c = n.length();	
 		System.out.println("The total numbers enters are:"+ (count+1));
 	}
