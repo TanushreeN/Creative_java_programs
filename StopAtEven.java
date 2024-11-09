@@ -1,6 +1,7 @@
 //Question : The user gives input number, till even number it will receives input and if odd njumber is entered, stop taking next input and display the total number of inputs taken.
 
 
+
 import java.util.Scanner;
 
 public class StopAtEven
